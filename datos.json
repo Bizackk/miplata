@@ -1,1 +1,33 @@
-{"saldo": 2000}
+{
+    "saldo": 4000,
+    "movimientos": [
+        {
+            "tipo": "Consignaci\u00f3n",
+            "monto": 1000
+        },
+        {
+            "tipo": "Retiro",
+            "monto": 500
+        },
+        {
+            "tipo": "Consignaci\u00f3n",
+            "monto": 1000
+        },
+        {
+            "tipo": "Consignaci\u00f3n",
+            "monto": 500
+        },
+        {
+            "tipo": "Consignaci\u00f3n",
+            "monto": 1000
+        },
+        {
+            "tipo": "Consignaci\u00f3n",
+            "monto": 700
+        },
+        {
+            "tipo": "Consignaci\u00f3n",
+            "monto": 300
+        }
+    ]
+}

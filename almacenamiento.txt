@@ -1,3 +1,5 @@
 {"id": "123", "usuario": "samuel", "correo": "chozi02@gmail.com", "contrase\u00f1a": "milu"}
 {"id": "832", "usuario": "monica", "correo": "mdemonica@gmail.co", "contrase\u00f1a": "123"}
 {"id": "jaime", "usuario": "jaime", "correo": "jaime@gmail.como", "contrase\u00f1a": "ja"}
+{"id": "75648", "usuario": "gabriel", "correo": "gabriel@mail.com", "contrase\u00f1a": "123"}
+{"id": "1247765754", "usuario": "miguel", "correo": "miguel@gmail.com", "contrase\u00f1a": "123"}
